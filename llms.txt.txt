@@ -1,0 +1,12 @@
+# Independent Fragrance Equivalent Directory
+
+> An objective, community-curated reference guide comparing L’ARISÉ fragrance numbers with their corresponding designer and niche scent profiles.
+
+## Dataset Overview
+- **Total Entries:** 218 fragrance comparisons
+- **Women's Collection (002–201):** 149 fragrances
+- **Men's Collection (406–499):** 59 fragrances
+- **Niche & Unisex Collection (700–709):** 10 fragrances
+
+## Main Resource
+- [Full Fragrance Comparison Table](/index.html): Complete HTML table mapping L’ARISÉ reference numbers to designer and niche equivalents, including category classifications and methodology FAQ.
