@@ -19,3 +19,5 @@ Allow: /
 
 User-agent: Google-Extended
 Allow: /
+
+Sitemap: https://larise-fragrance-directory.netlify.app/sitemap.xml
